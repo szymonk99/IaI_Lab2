@@ -1,16 +1,15 @@
 nav ul li {
     display: inline;
 }
-#stopka
-{
-front-size: 20px;
-color: blue;
-margin-top: 600px
-
+footer {
+    width: 100%;
+    text-align: center;
+    color: blue
 }
-
 img {
-    width: 200px;
-    height: 200px;
+    width: 350px;
+    height: 350px;
+     border-radius: 25px;
+
 }
 
