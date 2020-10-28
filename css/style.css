@@ -1,0 +1,31 @@
+nav ul li {
+    display: inline;
+}
+footer {
+    width: 100%;
+    position:fixed;
+    text-align: center;
+    color: blue;
+
+}
+img {
+    width: 250px;
+    height: 250px;
+     border-radius: 25px;
+}
+a:hover
+{
+background-color:#FF6633 ;
+color: white;
+transition: all 0.3s;
+padding: 2px;
+}
+iframe{
+width: 100%;
+}
+#Dane {
+color: white;
+background-color: #CC3300;
+padding:25px;
+ }
+
